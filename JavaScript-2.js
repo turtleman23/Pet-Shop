@@ -5,5 +5,5 @@ $(document).ready(function() {
 var Rat = 0;
 if (Rat === 1)
 {
-    
+    $(".hungry").show();
 }
