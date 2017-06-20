@@ -1,3 +1,13 @@
 body {
     background-color: green;
 }
+.Welcome{
+    margin-top: 300px;
+    margin-right: 500px;
+    margin-left: 800px;
+}
+.tutorial{
+    margin-top: 30px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
